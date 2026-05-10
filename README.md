@@ -36,7 +36,7 @@ Each program is written in a **simple and easy-to-understand way**.
 ---
 
 ## 📂 Project Structure
-
+```
 python-productivity-suite/
 │
 ├── basics/ # Basic programs (loops, conditions)
